@@ -1,4 +1,4 @@
-
+// added button
 const audio = document.getElementById('audio');
 const playBtn = document.getElementById('play-btn');
 const progressBar = document.getElementById('progress-bar');
